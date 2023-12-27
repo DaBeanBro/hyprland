@@ -1,0 +1,30 @@
+# Gruvbox-baby.yml
+
+colors:
+  primary:
+    background: '0x0d0e0f'
+    foreground: '0xebdbb2'
+
+  normal:
+    black: '0x202020'
+    red: '0xfb4934'
+    green: '0x689d6a'
+    yellow: '0x98971a'
+    blue: '0x7fa2ac'
+    magenta: '0xb16286'
+    cyan: '0x458588'
+    white: '0xdeDEDE'
+
+  bright:
+    black: '0x1d2021'
+    red: '0xd65d0e'
+    green: '0x8ec07c'
+    yellow: '0xeebd35'
+    blue: '0x83a598'
+    magenta: '0xd4879c'
+    cyan: '0x8ec07c'
+    white: '0xe7d7ad'
+
+cursor:
+  text: '0x0d0e0f'
+  cursor: '0xe7d7ad'
